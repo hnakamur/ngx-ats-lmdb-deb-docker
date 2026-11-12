@@ -1,0 +1,41 @@
+ngx-ats-lmdb (0.4.0-1hn1DebRelDistrib) UNRELEASED; urgency=medium
+
+  * Just change packaging to build using docker
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Thu, 12 Nov 2026 11:15:24 +0900
+
+ngx-ats-lmdb (0.4.0-1ppa3~ubuntu18.04) bionic; urgency=medium
+
+  * Fix distribution from jammy to bionic in changelog
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Wed, 25 Oct 2023 14:13:43 +0900
+
+ngx-ats-lmdb (0.4.0-1ppa2~ubuntu18.04) jammy; urgency=medium
+
+  * Change lua file directory to /usr/share/luajit-2.1
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Wed, 25 Oct 2023 13:20:03 +0900
+
+ngx-ats-lmdb (0.4.0-1ppa1~ubuntu18.04) bionic; urgency=medium
+
+  * New upstream version 0.4.0
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Thu, 03 Aug 2023 13:57:11 +0900
+
+ngx-ats-lmdb (0.3.0-1ppa1~ubuntu18.04) bionic; urgency=medium
+
+  * New upstream version 0.3.0
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Wed, 10 May 2023 10:12:06 +0900
+
+ngx-ats-lmdb (0.2.0-1ppa1~ubuntu18.04) bionic; urgency=medium
+
+  * New upstream version 0.2.0
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Fri, 14 Apr 2023 09:38:13 +0900
+
+ngx-ats-lmdb (0.1.0-1ppa1~ubuntu18.04) bionic; urgency=medium
+
+  * Initial release.
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Mon, 03 Apr 2023 14:33:44 +0900

@@ -1,0 +1,5 @@
+nal_lmdb_ats.lua	usr/share/luajit-2.1
+nal_lmdb_ngx.lua	usr/share/luajit-2.1
+nal_lmdb_setup.lua	usr/share/luajit-2.1
+nal_lmdb_stderr.lua	usr/share/luajit-2.1
+usr/lib/*/*.so
